@@ -55,6 +55,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Model\Enum\Enum.cs" />
+    <Compile Include="Model\Person\Man.cs" />
+    <Compile Include="Model\Person\Person.cs" />
+    <Compile Include="ViewModel\PeopleViewModel.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>

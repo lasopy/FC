@@ -1,1 +1,16 @@
 c:\users\rvemployee\documents\visual studio 2015\Projects\FC\FC\bin\Debug\FC.exe.config
+C:\Users\RVEmployee\Documents\FC\FC\bin\Debug\FC.exe.config
+C:\Users\RVEmployee\Documents\FC\FC\obj\Debug\FC.csprojResolveAssemblyReference.cache
+C:\Users\RVEmployee\Documents\FC\FC\obj\Debug\MainWindow.g.cs
+C:\Users\RVEmployee\Documents\FC\FC\obj\Debug\App.g.cs
+C:\Users\RVEmployee\Documents\FC\FC\obj\Debug\FC_MarkupCompile.cache
+C:\Users\RVEmployee\Documents\FC\FC\obj\Debug\FC_MarkupCompile.lref
+C:\Users\RVEmployee\Documents\FC\FC\bin\Debug\FC.exe
+C:\Users\RVEmployee\Documents\FC\FC\bin\Debug\FC.pdb
+C:\Users\RVEmployee\Documents\FC\FC\obj\Debug\MainWindow.baml
+C:\Users\RVEmployee\Documents\FC\FC\obj\Debug\FC.g.resources
+C:\Users\RVEmployee\Documents\FC\FC\obj\Debug\FC.Properties.Resources.resources
+C:\Users\RVEmployee\Documents\FC\FC\obj\Debug\FC.csproj.GenerateResource.Cache
+C:\Users\RVEmployee\Documents\FC\FC\obj\Debug\FC.exe
+C:\Users\RVEmployee\Documents\FC\FC\obj\Debug\FC.pdb
+C:\Users\RVEmployee\Documents\FC\FC\obj\Debug\GeneratedInternalTypeHelper.g.cs
